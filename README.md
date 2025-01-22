@@ -11,7 +11,6 @@ Apache Karaf 4.4.7
 | CentOS Stream 9     | Eclipse Adoptium 17   | 3.9.6 | PPC64LE      | Success | Jan 12, 2025 | CamelExampleTests had a timeout. |
 | Ubuntu 22.04.3 LTS  | Amazon Corretto 17   | 3.9.5 | x64      | Success | Jan 12, 2025 | CamelExampleTests had a timeout. |
 | Ubuntu 22.04.3 LTS  | Eclipse Adoptium 17   | 3.9.5 | x64      | Success | Jan 12, 2025 | CamelExampleTests had a timeout. |
-| Ubuntu 22.04.3 LTS  | Eclipse Adoptium 23   | 3.9.5 | x64      | Pending | Jan 12, 2025 | |
 | MacOS 15.2  | Eclipse Adoptium 17   | 3.9.9 | AArch64      | Failure | Jan 12, 2025 | On full build we see numerous unit test failures. MainLock, CamelExampleTests, and JpaExampleTest |
 
 
